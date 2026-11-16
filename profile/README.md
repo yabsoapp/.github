@@ -1,8 +1,11 @@
 <p align="center">
-  <a href="https://yabso.app"><img src="https://raw.githubusercontent.com/yabsoapp/.github/main/profile/yabso.svg" width="96" height="96" alt="yabso"></a>
+  <a href="https://yabso.app">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yabsoapp/.github/main/profile/yabso-wordmark-dark.svg">
+      <img src="https://raw.githubusercontent.com/yabsoapp/.github/main/profile/yabso-wordmark-light.svg" height="64" alt="yabso">
+    </picture>
+  </a>
 </p>
-
-<h1 align="center">yabso</h1>
 
 <p align="center">
   <b>The training log for strength and hybrid athletes.</b><br>
